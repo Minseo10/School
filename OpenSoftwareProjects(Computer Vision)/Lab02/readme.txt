@@ -1,4 +1,4 @@
-**rotation.cpp**
+** rotation.cpp **
 Visual Studio2019
 
 Purpose of the code: perform image rotation using inverse warping and interpolation(both nearest neighbor and bilinear interpolation)
